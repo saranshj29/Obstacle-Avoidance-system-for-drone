@@ -15,3 +15,49 @@ The Ultrasonic sensor measures the distance between the sensor itself and the ob
 Pulse width modulation (PWM) is a type of modulation where the width of the pulse is varied to encode information. The width of the pulse is proportional to the amplitude of the signal. Pulse width modulation is commonly used in control systems where it is used to control the speed of a motor or the brightness of a light.
 
 # Wiring Diagram – Obstacle Avoidance Drone
+![Drone obstacle avoidance](https://github.com/user-attachments/assets/0c2bc23b-8b07-4088-b93f-4630fb17001c)
+![sfsdfeasf](https://github.com/user-attachments/assets/b25cafdf-f00a-4e5e-857f-7af97b622c37)
+
+1. Down Sensor
+VCC -> VIN
+GND -> GND
+TRIG & ECHO -> A1
+2. Up Sensor
+VCC -> VIN
+GND -> GND
+TRIG & ECHO -> D6
+3. Right Sensor
+VCC -> VIN
+GND -> GND
+TRIG & ECHO -> D5
+4. Left Sensor
+VCC -> VIN
+GND -> GND
+TRIG & ECHO -> D4
+5. Back Sensor
+VCC -> VIN
+GND -> GND
+TRIG & ECHO -> D7
+6. Front Sensor
+VCC -> VIN
+GND -> GND
+TRIG & ECHO -> D2
+PWM Receiver->Arduino nano
+Ch1 -> D8
+Ch2 -> D9
+Ch3 -> D10
+Ch4 ->
+Ch5 ->
+Ch6 -> A0
+Flight Controller->Arduino nano
+Ch1 -> D13
+Ch2 -> D11
+Ch3 -> D12
+Ch4 ->
+Ch5 ->
+Ch6 ->  Not connected
+Flight Controller-> PWM Receiver
+Ch4 -> Ch4
+Ch5 -> Ch5
+ # source code in repositorsy
+
