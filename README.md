@@ -59,5 +59,5 @@ Ch6 ->  Not connected
 Flight Controller-> PWM Receiver
 Ch4 -> Ch4
 Ch5 -> Ch5
- # source code in repositorsy
+ # source code in repositorsy-https://github.com/saranshj29/Obstacle-Avoidance-system-for-drone/blob/main/code%20arduino%20using%20hc-sr04.txt
 
