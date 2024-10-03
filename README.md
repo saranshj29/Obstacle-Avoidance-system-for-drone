@@ -13,3 +13,5 @@ The Ultrasonic sensor measures the distance between the sensor itself and the ob
 
 
 Pulse width modulation (PWM) is a type of modulation where the width of the pulse is varied to encode information. The width of the pulse is proportional to the amplitude of the signal. Pulse width modulation is commonly used in control systems where it is used to control the speed of a motor or the brightness of a light.
+
+# Wiring Diagram – Obstacle Avoidance Drone
