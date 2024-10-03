@@ -60,4 +60,19 @@ Flight Controller-> PWM Receiver
 Ch4 -> Ch4
 Ch5 -> Ch5
  ## source code in repositorsy-https://github.com/saranshj29/Obstacle-Avoidance-system-for-drone/blob/main/code%20arduino%20using%20hc-sr04.txt
+![ddsfafS'](https://github.com/user-attachments/assets/d01b0efa-2a48-4285-b4ef-23071ea138f7)
+
+
+# USING VL53LOX
+
+In this design, instead of using six ultrasonic sensors to cover the six basic directions (forward, backward, left, right, up, and down), I opted for an alternative approach that deploys eight sensors. These eight sensors are arranged to cover a full 360-degree range, providing more comprehensive obstacle detection in all directions, including diagonal angles. This configuration was chosen to address a specific issue where the drone was facing challenges detecting obstacles located in the corners of the coverage zones of individual sensors, which were outside their detection range.
+
+Ultrasonic sensors tend to have a limited field of view, often leading to blind spots at the edges of their detection zones, especially at the corners between adjacent sensors. By increasing the number of sensors to eight and positioning them strategically, I improved the system’s ability to detect obstacles more accurately and consistently from all angles. This approach enhanced both the precision and reliability of the obstacle detection system, reducing the likelihood of missed detections, especially in corner areas, where objects could previously go undetected.
+
+Ultimately, the eight-sensor configuration provides better coverage, minimizes blind spots, and ensures smoother, safer navigation for the drone in complex environments, especially when it needs to navigate through tight spaces or near obstacles from various angles.
+![safAS](https://github.com/user-attachments/assets/2efd0d58-7832-4afa-ab30-f8d3c83170a2)
+
+# Wiring Diagram 
+![dafdaf](https://github.com/user-attachments/assets/24533761-e95a-43b5-84f6-ad636080ca9c)
+## source code-
 
