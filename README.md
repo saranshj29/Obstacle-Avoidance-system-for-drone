@@ -59,8 +59,7 @@ Ch6 ->  Not connected
 Flight Controller-> PWM Receiver
 Ch4 -> Ch4
 Ch5 -> Ch5
- ## source code in repositorsy-https://github.com/saranshj29/Obstacle-Avoidance-system-for-drone/blob/main/code%20arduino%20using%20hc-sr04.txt
-![ddsfafS'](https://github.com/user-attachments/assets/d01b0efa-2a48-4285-b4ef-23071ea138f7)
+
 
 
 # USING VL53LOX
@@ -74,5 +73,5 @@ Ultimately, the eight-sensor configuration provides better coverage, minimizes b
 
 # Wiring Diagram 
 ![dafdaf](https://github.com/user-attachments/assets/24533761-e95a-43b5-84f6-ad636080ca9c)
-## source code-https://github.com/saranshj29/Obstacle-Avoidance-system-for-drone/blob/main/VL53L0X%20%20source%20code.txt
+
 
